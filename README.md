@@ -15,19 +15,6 @@ The following **required** functionality is completed:
 - [x] **After each guess, user sees the "correctness" of the guess**
 - [x] **After all guesses are taken, user can see the target word displayed**
 
-The following **optional** features are implemented:
-
-- [ ] User can toggle betweeen different word lists
-- [ ] User can see the 'correctness' of their guess through colors on the word 
-- [ ] User sees a visual change after guessing the correct word
-- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
-- [ ] User will get an error message if they input an invalid guess
-- [ ] User can see a 'streak' record of how many words they've guessed correctly.
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -47,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Faiezene Zaman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
